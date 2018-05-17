@@ -1,0 +1,33 @@
+{
+  "Kovcheg":{
+    "Smena":[
+      "Year: 2018", "Place: RF, Ivanovskay obl.", "Days: 8"],
+    
+    "Calendar":{
+      "sunday":      "july 08",
+      "monday":      "july 09",
+      "tuesday":     "july 10",
+      "wednesday":   "july 11",
+      "thorthday":   "july 12",
+      "friday":      "july 13",
+      "sabbath-day": "july 14",
+      "sunday":      "july 15",
+    },
+    
+    "day1":["zaezd","sunday", "july 08", ],
+
+    "day2":"",
+    
+    "day3":"",
+    
+    "day4":"",
+    
+    "day5":"",
+    
+    "day6":"",
+    
+    "day7":"",
+
+    "day8":"",
+  }
+}
